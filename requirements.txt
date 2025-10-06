@@ -1,1 +1,7 @@
-
+torch>=1.10
+numpy
+streamlit>=1.0
+matplotlib
+plotly
+Pillow # For image handling
+opencv-python-headless # For OpenCV without GUI dependencies
